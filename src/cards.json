@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Pikachu",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Charmander",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Squirtle",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Nidoran",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Nidorina",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Clefairy",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Jigglypuff",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Diglett",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Psyduck",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Growlithe",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Poliwhirl",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
+    "count": 0
+  }
+]
